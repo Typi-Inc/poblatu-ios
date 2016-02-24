@@ -1,0 +1,20 @@
+{
+  "name": "poblatu",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "falcor": "FourSS/falcor",
+    "falcor-http-datasource": "Netflix/falcor-http-datasource",
+    "lodash": "^4.5.0",
+    "react-addons-perf": "^0.14.7",
+    "react-native": "^0.20.0",
+    "react-native-maps": "^0.3.0",
+    "react-native-tab-navigator": "^0.2.16",
+    "react-timer-mixin": "^0.13.3",
+    "refar": "^0.3.1",
+    "rxjs": "^5.0.0-beta.2"
+  }
+}
